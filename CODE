@@ -1,0 +1,4 @@
+#  this is a cool way to switch a boolean 
+
+var isReady : bool = false
+isReady =! isReady
